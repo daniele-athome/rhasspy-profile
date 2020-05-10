@@ -249,6 +249,12 @@
         "hermes": {
             "compatible": true
         },
+    "google": {
+      "credentials": "api-credentials.json",
+      "min_confidence": 0,
+      "language_code": "en_US",
+      "compatible": true
+    },
         "sentences_ini": "sentences.ini",
         "sentences_dir": "intents",
         "slots_dir": "slots",
